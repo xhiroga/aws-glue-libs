@@ -4,3 +4,6 @@ conf/
 jars/
 derby.log
 metastore_db/
+
+jarsv1
+spark-home
